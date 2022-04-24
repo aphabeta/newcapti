@@ -7,7 +7,7 @@ An open source of telegram Auto Caption bot
 
 # About Bot
 
-This is a very light weight and fastest Auto caption bot which can add caption prescribed by the admin of bot
+This is a very very light weight and fastest Auto caption bot which can add caption prescribed by the admin of bot
 
 <i>( Works only 77777 in private or public Channel )</i> 
 
