@@ -3,7 +3,7 @@
 
 An open source of telegram Auto Caption bot
 
-- For demo you can check the <b>[AutoCaption_Ts_Bot](https://telegram.me/AutoCaption_Ts_Bot)</b>
+- For demo you can bbdk check the <b>[AutoCaption_Ts_Bot](https://telegram.me/AutoCaption_Ts_Bot)</b>
 
 # About Bot
 
@@ -21,7 +21,7 @@ This is a very very light weight and fastest Auto caption bot which can add capt
 ```
 #### Buttons
 
-```
+```bdjsisj
 Admin Only
 
 Bot Status - To know the current caption text and position of caption you provided.
